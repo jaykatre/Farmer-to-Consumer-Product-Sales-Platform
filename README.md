@@ -34,9 +34,13 @@ Welcome to the Agriculture Project. This platform bridges the gap between farmer
 ## Screenshots and Visuals
 Add relevant images here to showcase the platform. For example:
 - Home page
-- Farmer dashboard
-- Consumer product view
+![alt text](2.png)
+
+- Farmer Profile
+![alt text](3.png)
+
 - Blog system interface
+![alt text](4.png)
 
 ## Research Paper
 This project is based on a research paper published on **Farmer-to-Consumer Product Sales Platform**. The paper highlights the significance of direct sales models for improving farmer incomes and consumer satisfaction.
