@@ -43,7 +43,7 @@ Add relevant images here to showcase the platform. For example:
 ![alt text](4.png)
 
 ## Research Paper
-This project is based on a research paper published on **Farmer-to-Consumer Product Sales Platform**. The paper highlights the significance of direct sales models for improving farmer incomes and consumer satisfaction.
+This project is based on a research paper published on **FARMERS AGRICULTURAL PORTAL**. The paper highlights the significance of direct sales models for improving farmer incomes and consumer satisfaction.
 
 ## Contribution Guidelines
 - Fork the repository.
