@@ -1,4 +1,4 @@
-# Farmer-to-Consumer-Product-Sales-Platform
+# Farmers Agricultural Portal
 
 ## Project Overview
 Welcome to the Agriculture Project. This platform bridges the gap between farmers and consumers by enabling farmers to sell their products directly to customers. The platform eliminates middlemen, ensuring fair prices for farmers and affordable prices for consumers. It is a simple web development project that is not time-consuming but offers valuable learning opportunities.
